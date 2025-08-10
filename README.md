@@ -501,3 +501,10 @@ Asifa Bandulal Beedi
 
 ## License
 This project is licensed under the MIT License.
+## Support
+
+If you encounter any issues or have questions, please open an issue on GitHub.
+
+---
+
+Built with ❤️ by [AsifaBeedi](https://github.com/AsifaBeedi)
